@@ -24,7 +24,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Computer Science**
 - 🌱 Currently levelling up with **React Native**
 - 💬 Hit me up about anything **React** — I love talking frontend
 - ⚡ Fun fact: I genuinely enjoy coding (yes, even the bugs)
