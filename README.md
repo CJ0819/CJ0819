@@ -11,7 +11,7 @@
 
 # Hey there, I'm Joseph Conduah 👋
 
-**Computer Science Student · Frontend Developer · React Enthusiast**
+**Computer Science  · Frontend Developer · React **
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ijoemafia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-conduah)
