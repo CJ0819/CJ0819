@@ -11,7 +11,7 @@
 
 # Hey there, I'm Joseph Conduah 👋
 
-**Computer Science  · Frontend Developer · React **
+**Computer Science  · Developer · React **
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joseph-conduah)
